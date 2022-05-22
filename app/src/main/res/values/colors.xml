@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF9800</color>
+    <color name="colorPrimary">#ee784c</color>
+    <color name="colorPrimaryDark">#E45A26</color>
+
+    <!--colors for modern ui-->
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#00a5ff</color>
+    <color name="black">#000000</color>
+
+    <color name="tab_background_selected">#E45A26</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grid_bg">#ffffff</color>
+    <color name="tab_background_unselected">#F86933</color>
+
+    <color name="hint">#bfbfbf</color>
+</resources>
